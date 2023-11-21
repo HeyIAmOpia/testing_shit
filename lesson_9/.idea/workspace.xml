@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35a552dd-8125-4880-9262-37053ca20e06" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/.idea/lesson 8.1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/1st banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/4.5stars.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/4.8stars.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/5.0stars.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/Expedia.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/Greece.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/Mountains.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/Photo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/airbnb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/booking.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/calendar 1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/fish.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/ill_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/insta.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/location 2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/mountain-view.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/paradise-beach.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/paradise-on-earth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/planesvsmap.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/play-circle.5 1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/rbitz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/ticket 1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/trip-advisor.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/img/work 1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson 8.1/thisis.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson 7/lasles-vpn-lesson6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bootstrap-elements-lesson-9" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2XMPj62kzRRKdpegv74iyOUSEk6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/courses programming lessons/lessons/lesson 10js",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\courses programming lessons\lessons\lesson 9\bootstrap-elements-lesson-9" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35a552dd-8125-4880-9262-37053ca20e06" name="Changes" comment="" />
+      <created>1698436108047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698436108047</updated>
+      <workItem from="1698436109064" duration="6019000" />
+      <workItem from="1698482935651" duration="1288000" />
+      <workItem from="1698773983171" duration="102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
